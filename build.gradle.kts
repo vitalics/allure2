@@ -64,7 +64,7 @@ configure(subprojects) {
         dependencies {
             dependency("com.beust:jcommander:1.80")
             dependency("com.github.spotbugs:spotbugs-annotations:3.1.12")
-            dependency("com.opencsv:opencsv:4.6")
+            dependency("com.opencsv:opencsv:5.4")
             dependency("com.vladsch.flexmark:flexmark:0.50.36")
             dependency("commons-io:commons-io:2.8.0")
             dependency("javax.xml.bind:jaxb-api:2.3.1")
